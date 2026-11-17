@@ -1,7 +1,15 @@
 # Personal Expense Tracker
 
-**Project:** PS No. 4  
-**Language:** Python 3
+## Project Details
+- *Project Number:* 04
+- *Language:* Python 3
+- *Developer:* Adarsh mishra
+- *ERP:* RU-26-02492
+
+## Project Mentor
+- *Mentored by:* Mr. Satyaprakash Sethy (https://github.com/SATYAPRAKASHSETHY)
+- *Github:* @SATYAPRAKASHSETHY(https://github.com/SATYAPRAKASHSETHY)
+- *Role:* Python Mentor/ Technical Guide
 
 ## 1. Introduction
 
